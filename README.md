@@ -8,10 +8,6 @@ Adds "Sort Selection By Date" command.
 
 ![](docs/sort_by_date_v1.gif)
 
-## Features
-
-Extension add
-
 ## Limitations
 
 * Only ISO8601 dates
